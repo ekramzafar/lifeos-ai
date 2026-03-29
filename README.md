@@ -1,3 +1,9 @@
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Notion](https://img.shields.io/badge/Database-Notion-black)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-orange)
+![Gmail API](https://img.shields.io/badge/API-Gmail-red)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
 # 🚀 LifeOS AI – Notion-Powered AI Agent
 
 ## 🧠 Overview
