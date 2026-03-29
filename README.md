@@ -8,11 +8,27 @@
 
 
 ## 🧠 Overview
-LifeOS AI is an intelligent productivity system that transforms Notion into a central operating system for your digital life.
+## 🧠 Overview
 
-It integrates Gmail, AI, and Notion to automatically convert emails into actionable tasks and generate smart daily plans.
+LifeOS AI is an intelligent, AI-powered productivity system designed to transform Notion into a centralized operating system for managing your digital life.
 
----
+In today’s workflow, information is fragmented across multiple platforms—emails, task managers, notes, and calendars. This fragmentation leads to inefficiency, missed deadlines, and constant context switching. Traditional AI tools operate in isolation and lack the ability to take meaningful actions across these systems.
+
+LifeOS AI addresses this challenge by integrating multiple services into a unified, action-oriented workflow powered by AI.
+
+The system connects Gmail, Notion, and an AI reasoning engine to create a seamless pipeline where information is not just analyzed, but acted upon automatically.
+
+Key capabilities include:
+- Extracting actionable insights from incoming emails
+- Converting unstructured data into structured tasks
+- Automatically creating and managing tasks inside Notion
+- Generating intelligent daily plans based on priorities and deadlines
+
+By using Notion as the central “brain”, LifeOS AI enables users to manage all their work in one place while AI handles the heavy lifting of understanding and organizing tasks.
+
+This shifts AI from being a passive assistant to an active agent that can execute real-world workflows autonomously.
+
+Ultimately, LifeOS AI demonstrates the future of productivity—where AI systems don’t just assist users, but operate alongside them to manage work efficiently and intelligently.
 
 ## 💡 Problem
 Modern workflows are scattered across:
