@@ -51,12 +51,12 @@ LifeOS AI solves this by:
     🤖 AI Engine
 
 (Task Extraction & Planning)
-↓
+         ↓
 ⚙️ Backend (Node.js)
-↓
+         ↓
 📊 Notion Database
 (Task Creation & Storage)
-↓
+         ↓
 🎨 Frontend (React)
 (User Dashboard & Controls)
 
