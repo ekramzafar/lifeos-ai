@@ -8,7 +8,6 @@
 
 
 ## 🧠 Overview
-## 🧠 Overview
 
 LifeOS AI is an intelligent, AI-powered productivity system designed to transform Notion into a centralized operating system for managing your digital life.
 
@@ -29,6 +28,8 @@ By using Notion as the central “brain”, LifeOS AI enables users to manage al
 This shifts AI from being a passive assistant to an active agent that can execute real-world workflows autonomously.
 
 Ultimately, LifeOS AI demonstrates the future of productivity—where AI systems don’t just assist users, but operate alongside them to manage work efficiently and intelligently.
+
+---
 
 ## 💡 Problem
 Modern workflows are scattered across:
