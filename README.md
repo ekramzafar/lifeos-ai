@@ -8,7 +8,7 @@
 
 ## 📸 App Screenshot
 
-![LifeOS App](lifeos20%app.png)
+![Lifeos App](lifeos20%app.png)
 
 ## 🧠 Overview
 LifeOS AI is an intelligent productivity system that transforms Notion into a central operating system for your digital life.
