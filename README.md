@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 # 🚀 LifeOS AI – Notion-Powered AI Agent
 
-![Dashboard](lifeos app.png)
+![App](screenshots/lifeos%20app.png)
 
 ## 🧠 Overview
 LifeOS AI is an intelligent productivity system that transforms Notion into a central operating system for your digital life.
