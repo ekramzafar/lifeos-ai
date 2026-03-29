@@ -43,6 +43,22 @@ LifeOS AI solves this by:
 - 🧠 Smart daily planning  
 
 ---
+## 📊 System Architecture
+  📩 Gmail API
+         ↓
+  (Fetch Emails)
+         ↓
+    🤖 AI Engine
+
+(Task Extraction & Planning)
+↓
+⚙️ Backend (Node.js)
+↓
+📊 Notion Database
+(Task Creation & Storage)
+↓
+🎨 Frontend (React)
+(User Dashboard & Controls)
 
 ## 🛠 Tech Stack
 
@@ -66,23 +82,8 @@ LifeOS AI solves this by:
 
 ---
 
-## 🎬 Demo Flow
 
-1. Click **"Process Emails"**
-2. System extracts tasks from emails
-3. Tasks are automatically added to Notion
-4. Generate daily plan using AI
 
----
-
-## 📸 Screenshots
-
-_Add your screenshots here_
-
-Example:
-- Dashboard UI  
-- Email processing  
-- Notion task creation  
 
 ---
 
