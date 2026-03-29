@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LifeOS AI</title>
+</head>
+<body>
+
+<h1>🚀 LifeOS AI</h1>
+
+<button onclick="run()">Process Emails → Notion</button>
+
+<pre id="output"></pre>
+
+<script>
+async function run() {
+  const res = await fetch("http://localhost:5000/process-emails");
+  const data = await res.json();
+
+  document.getElementById("output").innerText =
+    JSON.stringify(data, null, 2);
+}
+</script>
+
+</body>
+</html>
